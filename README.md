@@ -20,18 +20,19 @@ npm start
 
 ## Deployment Link
 ```url
-   https://akashkmt.github.io/swiggy-web-app-clone/
+https://clone-swiggy.netlify.app/
+  
 ```
 
 ## Contributors
-- [Jasmine Shaikh](https://github.com/Jasmine-Shaikh)
-- [Akash Kumawat](https://github.com/akashkmt)
-- [Sanoj Kumar](https://github.com/Sanojkumaryadav)
-- [Pawan Kumar](https://github.com/Pawangithub752000)
+- Avinash Kumar Ray
+- Lucky Yadav
+- Sanjana Kumari
+- Pranaw Lawande
 
 ## Tech Stack
-- HTML
-- CSS
+- React
+- Redux
 - JavaScript
 - JSON Server
 
